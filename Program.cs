@@ -77,7 +77,7 @@ void GetPlayerInput()
     
 }
 
-void ComTurn() // !!
+void ComTurn() // !
 {
     comNum = random.Next(1, 9);
 
