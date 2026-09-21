@@ -1,0 +1,14 @@
+G:\1 Progs\TTT\TicTacToe\bin\Debug\net10.0\TicTacToe.exe
+G:\1 Progs\TTT\TicTacToe\bin\Debug\net10.0\TicTacToe.deps.json
+G:\1 Progs\TTT\TicTacToe\bin\Debug\net10.0\TicTacToe.runtimeconfig.json
+G:\1 Progs\TTT\TicTacToe\bin\Debug\net10.0\TicTacToe.dll
+G:\1 Progs\TTT\TicTacToe\bin\Debug\net10.0\TicTacToe.pdb
+G:\1 Progs\TTT\TicTacToe\obj\Debug\net10.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+G:\1 Progs\TTT\TicTacToe\obj\Debug\net10.0\TicTacToe.AssemblyInfoInputs.cache
+G:\1 Progs\TTT\TicTacToe\obj\Debug\net10.0\TicTacToe.AssemblyInfo.cs
+G:\1 Progs\TTT\TicTacToe\obj\Debug\net10.0\TicTacToe.csproj.CoreCompileInputs.cache
+G:\1 Progs\TTT\TicTacToe\obj\Debug\net10.0\TicTacToe.dll
+G:\1 Progs\TTT\TicTacToe\obj\Debug\net10.0\refint\TicTacToe.dll
+G:\1 Progs\TTT\TicTacToe\obj\Debug\net10.0\TicTacToe.pdb
+G:\1 Progs\TTT\TicTacToe\obj\Debug\net10.0\TicTacToe.genruntimeconfig.cache
+G:\1 Progs\TTT\TicTacToe\obj\Debug\net10.0\ref\TicTacToe.dll
